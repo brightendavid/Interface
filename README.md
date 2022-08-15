@@ -16,7 +16,4 @@
 > 
 > 
 
-如果您对代码有任何问题可以联系我们:
-email:chenhaoranchr@qq.com
-
-wechat: CHRCHN133
+如果您对代码有任何问题自己解决。
